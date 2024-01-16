@@ -1,0 +1,4 @@
+glue_catalog_db_name:db_youtube_cleaned
+glue_catalog_table_name:cleaned_statistics_reference_data
+s3_cleansed_layer:s3://pawan-de-yt-cleansed-useast1-dev/youtube
+write_data_operation:append
